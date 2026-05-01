@@ -1,9 +1,3 @@
-## 🎥 Demo (próximamente)
-Vídeos explicando cada proyecto en desarrollo.
-
-## 📸 Capturas
-
-![Escrow](./04-smart-contract-escrow/screenshot.png)
 # Blockchain Portfolio – Diego Tarquini
 
 Portfolio práctico de proyectos desarrollados durante el curso de Blockchain Nivel 3.
